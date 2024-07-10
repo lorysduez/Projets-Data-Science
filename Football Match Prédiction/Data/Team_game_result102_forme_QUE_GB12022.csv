@@ -1,0 +1,381 @@
+,Home_Team,Away_Team,Forme_dom,Forme_exte
+0,Crystal Palace Football Club_2022,Arsenal Football Club_2022,0.0,0.0
+1,Fulham Football Club_2022,Liverpool Football Club_2022,0.0,0.0
+2,Everton Football Club_2022,Chelsea Football Club_2022,0.0,0.0
+3,Association Football Club Bournemouth_2022,Aston Villa Football Club_2022,0.0,0.0
+4,Tottenham Hotspur Football Club_2022,Southampton FC_2022,0.0,0.0
+5,Leeds United_2022,Wolverhampton Wanderers Football Club_2022,0.0,0.0
+6,Newcastle United Football Club_2022,Nottingham Forest Football Club_2022,0.0,0.0
+7,Manchester United Football Club_2022,Brighton and Hove Albion Football Club_2022,0.0,0.0
+8,West Ham United Football Club_2022,Manchester City Football Club_2022,0.0,0.0
+9,Leicester City_2022,Brentford Football Club_2022,0.0,0.0
+10,Aston Villa Football Club_2022,Everton Football Club_2022,-0.2,-0.2
+11,Wolverhampton Wanderers Football Club_2022,Fulham Football Club_2022,-0.2,0.0
+12,Arsenal Football Club_2022,Leicester City_2022,0.2,0.0
+13,Brentford Football Club_2022,Manchester United Football Club_2022,0.0,-0.2
+14,Manchester City Football Club_2022,Association Football Club Bournemouth_2022,0.2,0.2
+15,Brighton and Hove Albion Football Club_2022,Newcastle United Football Club_2022,0.2,0.2
+16,Southampton FC_2022,Leeds United_2022,-0.2,0.2
+17,Nottingham Forest Football Club_2022,West Ham United Football Club_2022,-0.2,-0.2
+18,Chelsea Football Club_2022,Tottenham Hotspur Football Club_2022,0.2,0.2
+19,Liverpool Football Club_2022,Crystal Palace Football Club_2022,0.0,-0.2
+20,Everton Football Club_2022,Nottingham Forest Football Club_2022,-0.4,0.0
+21,Crystal Palace Football Club_2022,Aston Villa Football Club_2022,-0.2,0.0
+22,Tottenham Hotspur Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.2,-0.2
+23,Leicester City_2022,Southampton FC_2022,-0.2,-0.2
+24,Association Football Club Bournemouth_2022,Arsenal Football Club_2022,0.0,0.4
+25,Fulham Football Club_2022,Brentford Football Club_2022,0.0,0.2
+26,West Ham United Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.4,0.2
+27,Newcastle United Football Club_2022,Manchester City Football Club_2022,0.2,0.4
+28,Leeds United_2022,Chelsea Football Club_2022,0.2,0.2
+29,Manchester United Football Club_2022,Liverpool Football Club_2022,-0.4,0.0
+30,Chelsea Football Club_2022,Leicester City_2022,0.0,-0.4
+31,Brentford Football Club_2022,Everton Football Club_2022,0.0,-0.4
+32,Manchester City Football Club_2022,Crystal Palace Football Club_2022,0.4,0.0
+33,Brighton and Hove Albion Football Club_2022,Leeds United_2022,0.4,0.4
+34,Arsenal Football Club_2022,Fulham Football Club_2022,0.6,0.2
+35,Liverpool Football Club_2022,Association Football Club Bournemouth_2022,-0.2,-0.2
+36,Southampton FC_2022,Manchester United Football Club_2022,0.0,-0.2
+37,Nottingham Forest Football Club_2022,Tottenham Hotspur Football Club_2022,0.0,0.4
+38,Wolverhampton Wanderers Football Club_2022,Newcastle United Football Club_2022,-0.4,0.2
+39,Aston Villa Football Club_2022,West Ham United Football Club_2022,-0.2,-0.6
+40,Leeds United_2022,Everton Football Club_2022,0.2,-0.4
+41,Fulham Football Club_2022,Brighton and Hove Albion Football Club_2022,0.0,0.6
+42,Southampton FC_2022,Chelsea Football Club_2022,-0.2,0.2
+43,Crystal Palace Football Club_2022,Brentford Football Club_2022,-0.2,0.0
+44,Manchester City Football Club_2022,Nottingham Forest Football Club_2022,0.6,-0.2
+45,Arsenal Football Club_2022,Aston Villa Football Club_2022,0.8,-0.4
+46,Association Football Club Bournemouth_2022,Wolverhampton Wanderers Football Club_2022,-0.4,-0.4
+47,West Ham United Football Club_2022,Tottenham Hotspur Football Club_2022,-0.4,0.6
+48,Liverpool Football Club_2022,Newcastle United Football Club_2022,0.0,0.2
+49,Leicester City_2022,Manchester United Football Club_2022,-0.6,0.0
+50,Everton Football Club_2022,Liverpool Football Club_2022,-0.4,0.2
+51,Wolverhampton Wanderers Football Club_2022,Southampton FC_2022,-0.4,0.0
+52,Newcastle United Football Club_2022,Crystal Palace Football Club_2022,0.0,-0.2
+53,Tottenham Hotspur Football Club_2022,Fulham Football Club_2022,0.6,0.2
+54,Chelsea Football Club_2022,West Ham United Football Club_2022,0.0,-0.4
+55,Aston Villa Football Club_2022,Manchester City Football Club_2022,-0.6,0.8
+56,Nottingham Forest Football Club_2022,Association Football Club Bournemouth_2022,-0.4,-0.4
+57,Brentford Football Club_2022,Leeds United_2022,0.0,0.2
+58,Manchester United Football Club_2022,Arsenal Football Club_2022,0.2,1.0
+59,Brighton and Hove Albion Football Club_2022,Leicester City_2022,0.4,-0.8
+60,Aston Villa Football Club_2022,Southampton FC_2022,-0.4,0.0
+61,Nottingham Forest Football Club_2022,Fulham Football Club_2022,-0.4,0.0
+62,Tottenham Hotspur Football Club_2022,Leicester City_2022,0.6,-1.0
+63,Wolverhampton Wanderers Football Club_2022,Manchester City Football Club_2022,0.0,0.6
+64,Newcastle United Football Club_2022,Association Football Club Bournemouth_2022,-0.2,-0.4
+65,Brentford Football Club_2022,Arsenal Football Club_2022,0.2,0.6
+66,Everton Football Club_2022,West Ham United Football Club_2022,-0.2,-0.4
+67,Liverpool Football Club_2022,Brighton and Hove Albion Football Club_2022,0.2,0.4
+68,Crystal Palace Football Club_2022,Chelsea Football Club_2022,0.0,0.0
+69,Fulham Football Club_2022,Newcastle United Football Club_2022,0.2,-0.2
+70,Southampton FC_2022,Everton Football Club_2022,-0.2,0.2
+71,West Ham United Football Club_2022,Wolverhampton Wanderers Football Club_2022,-0.4,-0.2
+72,Arsenal Football Club_2022,Tottenham Hotspur Football Club_2022,0.6,0.8
+73,Association Football Club Bournemouth_2022,Brentford Football Club_2022,-0.2,-0.2
+74,Leeds United_2022,Aston Villa Football Club_2022,-0.2,-0.4
+75,Manchester City Football Club_2022,Manchester United Football Club_2022,0.6,0.6
+76,Leicester City_2022,Nottingham Forest Football Club_2022,-1.0,-0.8
+77,Chelsea Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.2,-0.2
+78,Newcastle United Football Club_2022,Brentford Football Club_2022,0.0,0.0
+79,Brighton and Hove Albion Football Club_2022,Tottenham Hotspur Football Club_2022,0.4,0.4
+80,Association Football Club Bournemouth_2022,Leicester City_2022,0.0,-0.6
+81,Manchester City Football Club_2022,Southampton FC_2022,0.8,-0.6
+82,Crystal Palace Football Club_2022,Leeds United_2022,-0.2,-0.2
+83,West Ham United Football Club_2022,Fulham Football Club_2022,0.0,-0.2
+84,Arsenal Football Club_2022,Liverpool Football Club_2022,0.6,0.2
+85,Everton Football Club_2022,Manchester United Football Club_2022,0.4,0.6
+86,Nottingham Forest Football Club_2022,Aston Villa Football Club_2022,-1.0,-0.2
+87,Brentford Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.2,0.0
+88,Tottenham Hotspur Football Club_2022,Everton Football Club_2022,0.4,0.2
+89,Leicester City_2022,Crystal Palace Football Club_2022,-0.6,-0.2
+90,Fulham Football Club_2022,Association Football Club Bournemouth_2022,-0.2,0.4
+91,Wolverhampton Wanderers Football Club_2022,Nottingham Forest Football Club_2022,-0.4,-0.8
+92,Manchester United Football Club_2022,Newcastle United Football Club_2022,0.6,0.2
+93,Leeds United_2022,Arsenal Football Club_2022,-0.6,0.6
+94,Aston Villa Football Club_2022,Chelsea Football Club_2022,0.0,0.6
+95,Southampton FC_2022,West Ham United Football Club_2022,-0.6,0.0
+96,Liverpool Football Club_2022,Manchester City Football Club_2022,0.2,0.8
+97,Brighton and Hove Albion Football Club_2022,Nottingham Forest Football Club_2022,-0.4,-0.8
+98,Crystal Palace Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.0,-0.2
+99,Manchester United Football Club_2022,Tottenham Hotspur Football Club_2022,0.4,0.6
+100,Brentford Football Club_2022,Chelsea Football Club_2022,0.0,0.6
+101,Liverpool Football Club_2022,West Ham United Football Club_2022,0.2,0.0
+102,Newcastle United Football Club_2022,Everton Football Club_2022,0.4,0.0
+103,Association Football Club Bournemouth_2022,Southampton FC_2022,0.4,-0.8
+104,Fulham Football Club_2022,Aston Villa Football Club_2022,-0.4,0.0
+105,Leicester City_2022,Leeds United_2022,-0.4,-0.6
+106,Chelsea Football Club_2022,Manchester United Football Club_2022,0.8,0.4
+107,Manchester City Football Club_2022,Brighton and Hove Albion Football Club_2022,0.4,-0.2
+108,Nottingham Forest Football Club_2022,Liverpool Football Club_2022,-0.6,0.2
+109,Everton Football Club_2022,Crystal Palace Football Club_2022,-0.2,0.2
+110,Tottenham Hotspur Football Club_2022,Newcastle United Football Club_2022,0.2,0.6
+111,Aston Villa Football Club_2022,Brentford Football Club_2022,-0.2,-0.2
+112,Southampton FC_2022,Arsenal Football Club_2022,-0.4,0.6
+113,Wolverhampton Wanderers Football Club_2022,Leicester City_2022,-0.6,0.0
+114,Leeds United_2022,Fulham Football Club_2022,-0.8,0.0
+115,West Ham United Football Club_2022,Association Football Club Bournemouth_2022,0.0,0.0
+116,Crystal Palace Football Club_2022,Southampton FC_2022,0.0,-0.2
+117,Association Football Club Bournemouth_2022,Tottenham Hotspur Football Club_2022,-0.2,-0.2
+118,Fulham Football Club_2022,Everton Football Club_2022,0.0,-0.2
+119,Brentford Football Club_2022,Wolverhampton Wanderers Football Club_2022,-0.2,-0.6
+120,Leicester City_2022,Manchester City Football Club_2022,0.4,0.6
+121,Newcastle United Football Club_2022,Aston Villa Football Club_2022,0.8,-0.2
+122,Liverpool Football Club_2022,Leeds United_2022,0.0,-0.8
+123,Brighton and Hove Albion Football Club_2022,Chelsea Football Club_2022,-0.6,0.6
+124,Arsenal Football Club_2022,Nottingham Forest Football Club_2022,0.8,-0.2
+125,Manchester United Football Club_2022,West Ham United Football Club_2022,0.2,0.4
+126,Wolverhampton Wanderers Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.4,-0.4
+127,Leeds United_2022,Association Football Club Bournemouth_2022,-0.6,-0.4
+128,Everton Football Club_2022,Leicester City_2022,-0.4,0.0
+129,Nottingham Forest Football Club_2022,Brentford Football Club_2022,-0.2,-0.2
+130,Manchester City Football Club_2022,Fulham Football Club_2022,0.6,0.2
+131,Tottenham Hotspur Football Club_2022,Liverpool Football Club_2022,0.2,-0.2
+132,Aston Villa Football Club_2022,Manchester United Football Club_2022,-0.4,0.6
+133,Chelsea Football Club_2022,Arsenal Football Club_2022,0.2,0.8
+134,West Ham United Football Club_2022,Crystal Palace Football Club_2022,0.0,0.4
+135,Southampton FC_2022,Newcastle United Football Club_2022,-0.2,0.8
+136,Association Football Club Bournemouth_2022,Everton Football Club_2022,-0.8,-0.4
+137,Wolverhampton Wanderers Football Club_2022,Arsenal Football Club_2022,-0.4,0.8
+138,West Ham United Football Club_2022,Leicester City_2022,-0.4,0.4
+139,Manchester City Football Club_2022,Brentford Football Club_2022,0.6,0.0
+140,Tottenham Hotspur Football Club_2022,Leeds United_2022,-0.2,-0.2
+141,Newcastle United Football Club_2022,Chelsea Football Club_2022,0.8,-0.2
+142,Nottingham Forest Football Club_2022,Crystal Palace Football Club_2022,-0.2,0.4
+143,Liverpool Football Club_2022,Southampton FC_2022,0.2,-0.2
+144,Brighton and Hove Albion Football Club_2022,Aston Villa Football Club_2022,0.0,-0.2
+145,Fulham Football Club_2022,Manchester United Football Club_2022,0.2,0.2
+146,Aston Villa Football Club_2022,Liverpool Football Club_2022,0.2,0.2
+147,Crystal Palace Football Club_2022,Fulham Football Club_2022,0.2,0.0
+148,Everton Football Club_2022,Wolverhampton Wanderers Football Club_2022,-0.4,-0.8
+149,Arsenal Football Club_2022,West Ham United Football Club_2022,0.8,-0.6
+150,Brentford Football Club_2022,Tottenham Hotspur Football Club_2022,0.0,-0.2
+151,Leicester City_2022,Newcastle United Football Club_2022,0.6,1.0
+152,Southampton FC_2022,Brighton and Hove Albion Football Club_2022,-0.4,0.0
+153,Chelsea Football Club_2022,Association Football Club Bournemouth_2022,-0.6,-0.6
+154,Manchester United Football Club_2022,Nottingham Forest Football Club_2022,0.4,0.2
+155,Leeds United_2022,Manchester City Football Club_2022,-0.2,0.2
+156,Liverpool Football Club_2022,Leicester City_2022,0.2,0.2
+157,West Ham United Football Club_2022,Brentford Football Club_2022,-0.6,0.0
+158,Newcastle United Football Club_2022,Leeds United_2022,1.0,-0.2
+159,Association Football Club Bournemouth_2022,Crystal Palace Football Club_2022,-0.6,-0.2
+160,Brighton and Hove Albion Football Club_2022,Arsenal Football Club_2022,0.2,0.8
+161,Fulham Football Club_2022,Southampton FC_2022,0.0,-0.8
+162,Wolverhampton Wanderers Football Club_2022,Manchester United Football Club_2022,-0.4,0.4
+163,Manchester City Football Club_2022,Everton Football Club_2022,0.6,-0.4
+164,Tottenham Hotspur Football Club_2022,Aston Villa Football Club_2022,0.0,0.2
+165,Nottingham Forest Football Club_2022,Chelsea Football Club_2022,0.0,-0.4
+166,Brentford Football Club_2022,Liverpool Football Club_2022,0.4,0.6
+167,Leicester City_2022,Fulham Football Club_2022,-0.2,0.0
+168,Arsenal Football Club_2022,Newcastle United Football Club_2022,1.0,0.8
+169,Everton Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.6,0.2
+170,Manchester United Football Club_2022,Association Football Club Bournemouth_2022,0.6,-0.6
+171,Leeds United_2022,West Ham United Football Club_2022,0.0,-1.0
+172,Aston Villa Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.2,-0.4
+173,Crystal Palace Football Club_2022,Tottenham Hotspur Football Club_2022,0.2,0.0
+174,Southampton FC_2022,Nottingham Forest Football Club_2022,-1.0,-0.2
+175,Chelsea Football Club_2022,Manchester City Football Club_2022,-0.4,0.4
+176,Fulham Football Club_2022,Chelsea Football Club_2022,0.2,-0.4
+177,Aston Villa Football Club_2022,Leeds United_2022,0.4,-0.2
+178,Wolverhampton Wanderers Football Club_2022,West Ham United Football Club_2022,-0.4,-0.8
+179,Nottingham Forest Football Club_2022,Leicester City_2022,0.2,-0.2
+180,Everton Football Club_2022,Southampton FC_2022,-0.8,-1.0
+181,Brighton and Hove Albion Football Club_2022,Liverpool Football Club_2022,0.2,0.6
+182,Manchester United Football Club_2022,Manchester City Football Club_2022,0.6,0.4
+183,Brentford Football Club_2022,Association Football Club Bournemouth_2022,0.6,-0.6
+184,Newcastle United Football Club_2022,Fulham Football Club_2022,0.6,0.6
+185,Chelsea Football Club_2022,Crystal Palace Football Club_2022,-0.4,-0.2
+186,Tottenham Hotspur Football Club_2022,Arsenal Football Club_2022,0.0,0.8
+187,Crystal Palace Football Club_2022,Manchester United Football Club_2022,-0.6,1.0
+188,Manchester City Football Club_2022,Tottenham Hotspur Football Club_2022,0.0,0.0
+189,Southampton FC_2022,Aston Villa Football Club_2022,-0.6,0.4
+190,West Ham United Football Club_2022,Everton Football Club_2022,-0.8,-0.8
+191,Liverpool Football Club_2022,Chelsea Football Club_2022,0.2,0.0
+192,Crystal Palace Football Club_2022,Newcastle United Football Club_2022,-0.4,0.6
+193,Association Football Club Bournemouth_2022,Nottingham Forest Football Club_2022,-0.6,0.4
+194,Leicester City_2022,Brighton and Hove Albion Football Club_2022,-0.6,0.2
+195,Manchester City Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.4,0.0
+196,Leeds United_2022,Brentford Football Club_2022,-0.6,0.8
+197,Arsenal Football Club_2022,Manchester United Football Club_2022,0.8,0.8
+198,Fulham Football Club_2022,Tottenham Hotspur Football Club_2022,0.6,-0.4
+199,Chelsea Football Club_2022,Fulham Football Club_2022,-0.2,0.2
+200,Brighton and Hove Albion Football Club_2022,Association Football Club Bournemouth_2022,0.4,-0.8
+201,Manchester United Football Club_2022,Crystal Palace Football Club_2022,0.4,-0.2
+202,Aston Villa Football Club_2022,Leicester City_2022,0.4,-0.8
+203,Wolverhampton Wanderers Football Club_2022,Liverpool Football Club_2022,0.0,0.0
+204,Brentford Football Club_2022,Southampton FC_2022,0.6,-0.6
+205,Everton Football Club_2022,Arsenal Football Club_2022,-0.8,0.8
+206,Newcastle United Football Club_2022,West Ham United Football Club_2022,0.4,-0.4
+207,Nottingham Forest Football Club_2022,Leeds United_2022,0.2,-0.4
+208,Tottenham Hotspur Football Club_2022,Manchester City Football Club_2022,-0.2,0.4
+209,Manchester United Football Club_2022,Leeds United_2022,0.4,-0.4
+210,Arsenal Football Club_2022,Brentford Football Club_2022,0.4,0.8
+211,Crystal Palace Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.6,0.4
+212,West Ham United Football Club_2022,Chelsea Football Club_2022,-0.2,-0.2
+213,Leicester City_2022,Tottenham Hotspur Football Club_2022,-0.4,0.2
+214,Fulham Football Club_2022,Nottingham Forest Football Club_2022,0.0,0.6
+215,Association Football Club Bournemouth_2022,Newcastle United Football Club_2022,-0.8,0.2
+216,Southampton FC_2022,Wolverhampton Wanderers Football Club_2022,-0.6,0.0
+217,Manchester City Football Club_2022,Aston Villa Football Club_2022,0.2,0.4
+218,Leeds United_2022,Manchester United Football Club_2022,-0.4,0.2
+219,Liverpool Football Club_2022,Everton Football Club_2022,-0.4,-0.4
+220,Arsenal Football Club_2022,Manchester City Football Club_2022,0.2,0.2
+221,Wolverhampton Wanderers Football Club_2022,Association Football Club Bournemouth_2022,0.4,-0.6
+222,Chelsea Football Club_2022,Southampton FC_2022,0.0,-0.6
+223,Brentford Football Club_2022,Crystal Palace Football Club_2022,0.6,-0.4
+224,Aston Villa Football Club_2022,Arsenal Football Club_2022,0.0,0.0
+225,Everton Football Club_2022,Leeds United_2022,-0.6,-0.6
+226,Newcastle United Football Club_2022,Liverpool Football Club_2022,0.2,-0.4
+227,Brighton and Hove Albion Football Club_2022,Fulham Football Club_2022,0.6,0.0
+228,Nottingham Forest Football Club_2022,Manchester City Football Club_2022,0.4,0.6
+229,Manchester United Football Club_2022,Leicester City_2022,0.2,0.0
+230,Tottenham Hotspur Football Club_2022,West Ham United Football Club_2022,-0.2,0.0
+231,Fulham Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.0,0.2
+232,Leeds United_2022,Southampton FC_2022,-0.6,-0.2
+233,Everton Football Club_2022,Aston Villa Football Club_2022,-0.2,-0.2
+234,Leicester City_2022,Arsenal Football Club_2022,0.0,0.0
+235,West Ham United Football Club_2022,Nottingham Forest Football Club_2022,-0.2,0.2
+236,Association Football Club Bournemouth_2022,Manchester City Football Club_2022,-0.2,0.4
+237,Crystal Palace Football Club_2022,Liverpool Football Club_2022,-0.2,0.0
+238,Tottenham Hotspur Football Club_2022,Chelsea Football Club_2022,0.2,0.0
+239,Arsenal Football Club_2022,Everton Football Club_2022,0.0,-0.2
+240,Liverpool Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.2,0.0
+241,Manchester City Football Club_2022,Newcastle United Football Club_2022,0.4,0.0
+242,Chelsea Football Club_2022,Leeds United_2022,-0.4,-0.4
+243,Arsenal Football Club_2022,Association Football Club Bournemouth_2022,0.4,-0.2
+244,Brighton and Hove Albion Football Club_2022,West Ham United Football Club_2022,0.2,0.2
+245,Aston Villa Football Club_2022,Crystal Palace Football Club_2022,-0.2,-0.2
+246,Wolverhampton Wanderers Football Club_2022,Tottenham Hotspur Football Club_2022,0.0,0.6
+247,Southampton FC_2022,Leicester City_2022,-0.6,0.0
+248,Liverpool Football Club_2022,Manchester United Football Club_2022,0.4,0.4
+249,Nottingham Forest Football Club_2022,Everton Football Club_2022,-0.2,-0.2
+250,Brentford Football Club_2022,Fulham Football Club_2022,0.4,0.2
+251,Leeds United_2022,Brighton and Hove Albion Football Club_2022,-0.4,0.2
+252,Association Football Club Bournemouth_2022,Liverpool Football Club_2022,-0.4,0.8
+253,Leicester City_2022,Chelsea Football Club_2022,-0.2,-0.2
+254,Crystal Palace Football Club_2022,Manchester City Football Club_2022,-0.4,0.8
+255,Tottenham Hotspur Football Club_2022,Nottingham Forest Football Club_2022,0.2,-0.2
+256,Everton Football Club_2022,Brentford Football Club_2022,-0.4,0.4
+257,Fulham Football Club_2022,Arsenal Football Club_2022,0.2,0.6
+258,West Ham United Football Club_2022,Aston Villa Football Club_2022,-0.2,-0.2
+259,Manchester United Football Club_2022,Southampton FC_2022,0.4,-0.2
+260,Newcastle United Football Club_2022,Wolverhampton Wanderers Football Club_2022,-0.4,0.0
+261,Southampton FC_2022,Brentford Football Club_2022,0.0,0.2
+262,Brighton and Hove Albion Football Club_2022,Crystal Palace Football Club_2022,0.2,-0.4
+263,Nottingham Forest Football Club_2022,Newcastle United Football Club_2022,-0.6,-0.2
+264,Southampton FC_2022,Tottenham Hotspur Football Club_2022,0.0,0.2
+265,Wolverhampton Wanderers Football Club_2022,Leeds United_2022,-0.4,-0.4
+266,Chelsea Football Club_2022,Everton Football Club_2022,0.0,0.0
+267,Brentford Football Club_2022,Leicester City_2022,0.2,-0.6
+268,Aston Villa Football Club_2022,Association Football Club Bournemouth_2022,0.0,0.0
+269,Arsenal Football Club_2022,Crystal Palace Football Club_2022,1.0,-0.6
+270,Crystal Palace Football Club_2022,Leicester City_2022,-0.8,-0.8
+271,Arsenal Football Club_2022,Leeds United_2022,1.0,0.0
+272,Nottingham Forest Football Club_2022,Wolverhampton Wanderers Football Club_2022,-0.6,-0.4
+273,Manchester City Football Club_2022,Liverpool Football Club_2022,0.8,0.4
+274,Association Football Club Bournemouth_2022,Fulham Football Club_2022,-0.2,0.0
+275,Brighton and Hove Albion Football Club_2022,Brentford Football Club_2022,0.2,0.2
+276,Chelsea Football Club_2022,Aston Villa Football Club_2022,0.0,0.4
+277,Newcastle United Football Club_2022,Manchester United Football Club_2022,0.0,0.2
+278,West Ham United Football Club_2022,Southampton FC_2022,-0.2,-0.2
+279,Everton Football Club_2022,Tottenham Hotspur Football Club_2022,-0.2,0.4
+280,Leicester City_2022,Aston Villa Football Club_2022,-0.8,0.8
+281,Association Football Club Bournemouth_2022,Brighton and Hove Albion Football Club_2022,-0.2,0.2
+282,Leeds United_2022,Nottingham Forest Football Club_2022,0.0,-0.6
+283,Chelsea Football Club_2022,Liverpool Football Club_2022,0.0,0.0
+284,West Ham United Football Club_2022,Newcastle United Football Club_2022,0.0,0.2
+285,Manchester United Football Club_2022,Brentford Football Club_2022,0.0,0.2
+286,Wolverhampton Wanderers Football Club_2022,Chelsea Football Club_2022,-0.4,0.2
+287,Fulham Football Club_2022,West Ham United Football Club_2022,-0.4,0.0
+288,Aston Villa Football Club_2022,Nottingham Forest Football Club_2022,0.8,-0.6
+289,Tottenham Hotspur Football Club_2022,Brighton and Hove Albion Football Club_2022,0.2,0.6
+290,Brentford Football Club_2022,Newcastle United Football Club_2022,-0.2,0.6
+291,Leicester City_2022,Association Football Club Bournemouth_2022,-0.8,-0.2
+292,Manchester United Football Club_2022,Everton Football Club_2022,0.0,0.0
+293,Southampton FC_2022,Manchester City Football Club_2022,-0.2,0.8
+294,Leeds United_2022,Crystal Palace Football Club_2022,0.0,-0.6
+295,Liverpool Football Club_2022,Arsenal Football Club_2022,0.0,1.0
+296,Tottenham Hotspur Football Club_2022,Association Football Club Bournemouth_2022,0.2,0.2
+297,Southampton FC_2022,Crystal Palace Football Club_2022,-0.6,-0.2
+298,Aston Villa Football Club_2022,Newcastle United Football Club_2022,0.8,1.0
+299,Manchester City Football Club_2022,Leicester City_2022,1.0,-0.8
+300,Everton Football Club_2022,Fulham Football Club_2022,0.0,-0.8
+301,Chelsea Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.2,0.2
+302,Wolverhampton Wanderers Football Club_2022,Brentford Football Club_2022,0.0,-0.2
+303,Nottingham Forest Football Club_2022,Manchester United Football Club_2022,-0.8,0.0
+304,West Ham United Football Club_2022,Arsenal Football Club_2022,0.0,0.8
+305,Leeds United_2022,Liverpool Football Club_2022,0.0,-0.2
+306,Arsenal Football Club_2022,Southampton FC_2022,0.6,-0.8
+307,Leicester City_2022,Wolverhampton Wanderers Football Club_2022,-0.8,0.0
+308,Liverpool Football Club_2022,Nottingham Forest Football Club_2022,-0.2,-0.8
+309,Brentford Football Club_2022,Aston Villa Football Club_2022,-0.6,1.0
+310,Crystal Palace Football Club_2022,Everton Football Club_2022,0.2,-0.2
+311,Fulham Football Club_2022,Leeds United_2022,-0.6,-0.2
+312,Association Football Club Bournemouth_2022,West Ham United Football Club_2022,0.2,0.2
+313,Newcastle United Football Club_2022,Tottenham Hotspur Football Club_2022,0.6,0.2
+314,Leeds United_2022,Leicester City_2022,-0.6,-0.6
+315,Wolverhampton Wanderers Football Club_2022,Crystal Palace Football Club_2022,0.0,0.4
+316,Aston Villa Football Club_2022,Fulham Football Club_2022,0.8,-0.2
+317,Manchester City Football Club_2022,Arsenal Football Club_2022,1.0,0.4
+318,Nottingham Forest Football Club_2022,Brighton and Hove Albion Football Club_2022,-0.8,0.4
+319,Chelsea Football Club_2022,Brentford Football Club_2022,-0.6,-0.6
+320,West Ham United Football Club_2022,Liverpool Football Club_2022,0.4,0.2
+321,Southampton FC_2022,Association Football Club Bournemouth_2022,-0.6,0.2
+322,Tottenham Hotspur Football Club_2022,Manchester United Football Club_2022,-0.2,0.4
+323,Everton Football Club_2022,Newcastle United Football Club_2022,-0.4,0.6
+324,Brentford Football Club_2022,Nottingham Forest Football Club_2022,-0.4,-0.6
+325,Crystal Palace Football Club_2022,West Ham United Football Club_2022,0.4,0.0
+326,Brighton and Hove Albion Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.0,0.4
+327,Liverpool Football Club_2022,Tottenham Hotspur Football Club_2022,0.6,-0.2
+328,Fulham Football Club_2022,Manchester City Football Club_2022,-0.2,1.0
+329,Association Football Club Bournemouth_2022,Leeds United_2022,0.2,-0.4
+330,Manchester United Football Club_2022,Aston Villa Football Club_2022,0.4,0.8
+331,Newcastle United Football Club_2022,Southampton FC_2022,0.6,-0.8
+332,Leicester City_2022,Everton Football Club_2022,-0.4,-0.6
+333,Arsenal Football Club_2022,Chelsea Football Club_2022,0.0,-0.8
+334,Manchester City Football Club_2022,West Ham United Football Club_2022,1.0,0.0
+335,Liverpool Football Club_2022,Fulham Football Club_2022,0.8,-0.2
+336,Brighton and Hove Albion Football Club_2022,Manchester United Football Club_2022,0.2,0.8
+337,Wolverhampton Wanderers Football Club_2022,Aston Villa Football Club_2022,0.2,0.4
+338,Association Football Club Bournemouth_2022,Chelsea Football Club_2022,0.6,-0.8
+339,Manchester City Football Club_2022,Leeds United_2022,1.0,-0.8
+340,Liverpool Football Club_2022,Brentford Football Club_2022,1.0,0.0
+341,Tottenham Hotspur Football Club_2022,Crystal Palace Football Club_2022,-0.4,0.4
+342,West Ham United Football Club_2022,Manchester United Football Club_2022,-0.4,0.4
+343,Newcastle United Football Club_2022,Arsenal Football Club_2022,0.6,0.0
+344,Nottingham Forest Football Club_2022,Southampton FC_2022,-0.6,-0.8
+345,Brighton and Hove Albion Football Club_2022,Everton Football Club_2022,0.2,-0.6
+346,Fulham Football Club_2022,Leicester City_2022,-0.2,-0.2
+347,Chelsea Football Club_2022,Nottingham Forest Football Club_2022,-0.6,-0.2
+348,Aston Villa Football Club_2022,Tottenham Hotspur Football Club_2022,0.0,-0.4
+349,Manchester United Football Club_2022,Wolverhampton Wanderers Football Club_2022,0.0,0.2
+350,Crystal Palace Football Club_2022,Association Football Club Bournemouth_2022,0.0,0.2
+351,Southampton FC_2022,Fulham Football Club_2022,-0.8,-0.2
+352,Leeds United_2022,Newcastle United Football Club_2022,-0.8,0.2
+353,Arsenal Football Club_2022,Brighton and Hove Albion Football Club_2022,0.2,0.2
+354,Everton Football Club_2022,Manchester City Football Club_2022,-0.2,1.0
+355,Brentford Football Club_2022,West Ham United Football Club_2022,0.0,-0.2
+356,Leicester City_2022,Liverpool Football Club_2022,-0.2,1.0
+357,Newcastle United Football Club_2022,Brighton and Hove Albion Football Club_2022,0.4,0.2
+358,Tottenham Hotspur Football Club_2022,Brentford Football Club_2022,-0.4,0.4
+359,Nottingham Forest Football Club_2022,Arsenal Football Club_2022,0.0,0.0
+360,Fulham Football Club_2022,Crystal Palace Football Club_2022,-0.2,0.0
+361,Liverpool Football Club_2022,Aston Villa Football Club_2022,1.0,0.0
+362,Wolverhampton Wanderers Football Club_2022,Everton Football Club_2022,-0.2,-0.2
+363,Association Football Club Bournemouth_2022,Manchester United Football Club_2022,-0.2,0.0
+364,West Ham United Football Club_2022,Leeds United_2022,-0.6,-0.6
+365,Brighton and Hove Albion Football Club_2022,Southampton FC_2022,0.2,-0.8
+366,Manchester City Football Club_2022,Chelsea Football Club_2022,1.0,-0.4
+367,Newcastle United Football Club_2022,Leicester City_2022,0.4,-0.2
+368,Brighton and Hove Albion Football Club_2022,Manchester City Football Club_2022,0.2,1.0
+369,Manchester United Football Club_2022,Chelsea Football Club_2022,0.2,-0.4
+370,Arsenal Football Club_2022,Wolverhampton Wanderers Football Club_2022,-0.2,0.0
+371,Leeds United_2022,Tottenham Hotspur Football Club_2022,-0.6,-0.4
+372,Chelsea Football Club_2022,Newcastle United Football Club_2022,-0.4,0.2
+373,Brentford Football Club_2022,Manchester City Football Club_2022,0.6,0.8
+374,Everton Football Club_2022,Association Football Club Bournemouth_2022,-0.2,-0.2
+375,Aston Villa Football Club_2022,Brighton and Hove Albion Football Club_2022,0.0,0.0
+376,Leicester City_2022,West Ham United Football Club_2022,-0.4,-0.2
+377,Southampton FC_2022,Liverpool Football Club_2022,-1.0,0.8
+378,Crystal Palace Football Club_2022,Nottingham Forest Football Club_2022,0.0,0.4
+379,Manchester United Football Club_2022,Fulham Football Club_2022,0.2,0.0
